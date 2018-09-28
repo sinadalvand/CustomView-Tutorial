@@ -1,6 +1,6 @@
 
 # About Box
-This Repository Created for sharing used code in Arcademy CustomView Tutorial whit Tutorial's Students
+This Repository Created for sharing used code in Arcademy CustomView Tutorial with Tutorial's Students
 
 
 
